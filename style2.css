@@ -1,0 +1,27 @@
+@utf-8;
+
+h1{
+  color:#00cc99;
+  margin:2px;
+
+}
+.oubo{
+text-align: center;
+margin-right:10px;
+margin-top:20px;
+}
+
+a img{
+
+  text-align:center;
+  margin:0 auto;
+}
+p small{
+  font-size:20%;
+  border:solid 1px;
+  border-radius:30px;
+  margin:10px;
+}
+p{
+  margin :2px;
+}
